@@ -1,0 +1,10 @@
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+
+namespace MyWebApp.Models
+{
+    // Add profile data for application users by adding properties to the ApplicationUser class
+    public class ApplicationRole : IdentityRole
+    {
+        
+    }
+}
